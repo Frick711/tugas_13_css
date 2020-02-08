@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{width:1000px;
+height:1000px;
+margin:40px;
+padding:100px;}
+.satu{width:250px;
+	height:250px;
+background-color:rgba(15,142,22,1.00);
+	border:solid;
+	border-image-source: url("../../../Documents/Unnamed Site 2/hearts.png");
+	border-image-width: 50px;
+	border-image-repeat: round;
+	border-image-slice: 20 22;
+	border-image-outset:50px;
+	margin:50px;
+	box-shadow: 40px 40px black;
+	
+}
+.dua{width:250px;
+	height:250px;
+	border:solid;
+	border-image-source: url("../../../Documents/Unnamed Site 2/border1.png");
+	border-image-width: 20px;
+	border-image-repeat: round;
+	border-image-slice: 35 35;
+	border-image-outset:15px;
+	margin:50px;
+	box-shadow: 10px 10px 30px black;
+background-color:rgba(17,0,247,1.00)}
